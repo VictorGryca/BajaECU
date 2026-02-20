@@ -9,4 +9,4 @@ An Electronic Control Unit (ECU) for a SAE Baja Student competition.
 ![bottonViewECUV3](/assets/BottomViewECUV3.png)
 
 # Assembled PCB
-![PCBFabricada](/assets/PCBFabricada.png)
+![PCBFabricada](/assets/PCBFabricadaV2.png)
